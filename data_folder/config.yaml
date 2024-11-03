@@ -1,17 +1,19 @@
 remote: true
+hybrid: true
+onsite: true
 
 experienceLevel:
-  internship: true
+  internship: false
   entry: true
   associate: true
-  mid-senior level: false
+  mid-senior level: true
   director: false
   executive: false
 
 jobTypes:
   full-time: true
-  contract: true
-  part-time: true
+  contract: false
+  part-time: false
   temporary: true
   internship: true
   other: true
@@ -19,8 +21,8 @@ jobTypes:
 
 date:
   all time: false
-  month: true
-  week: true
+  month: false
+  week: false
   24 hours: true
 
 positions:
